@@ -1,0 +1,15 @@
+.allu-arjun-box{
+  /*  background-image: url("allu-arjun-pic-PhotoRoom.png");
+    background-repeat: no-repeat;*/
+    background-color:#DA291B;
+    width: auto;
+    height: 450px;
+    background-size: auto 100%;
+
+    display: flex;
+    
+}
+.allu-arjun-pic{
+    flex:1;
+    max-width: 500px;
+}
