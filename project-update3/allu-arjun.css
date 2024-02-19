@@ -1,0 +1,31 @@
+.allu-arjun-box{
+
+  /*background-color:#D02F34; */
+  background-image: url("home-banner.png");
+ /* width: 100%;
+  height: auto;*/
+  background-size: cover;
+  position:relative;
+  top:100px;
+  height: 548px;
+
+  display: flex;
+  
+}
+
+.allu-arjun-pic{
+    width: 30%;
+    height: auto;
+    min-width: 100px;
+
+}
+
+.allu-arjun-text{
+  position: absolute;
+  top:141px;
+  left:275px;
+  font-family: arial;
+  font-size: 35px;
+  font-weight: 800;
+  color: white;
+}
